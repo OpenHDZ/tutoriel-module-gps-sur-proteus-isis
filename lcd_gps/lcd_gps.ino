@@ -1,5 +1,5 @@
 /*
-Programme qui est utiliser pour simuler le module GPS avec une carte Arduino sur le logiciel Proteus ISIS.
+Programme qui est utilisé pour simuler le module GPS avec une carte Arduino sur le logiciel Proteus ISIS.
 
 Ecrit par Areour mohamed Cherif
 Date : 12/03/2016
